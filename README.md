@@ -41,6 +41,8 @@ At [Akimeka](http://www.akimeka.com/), I worked as a software engineer for the D
 
 ## Side projects
 
+- [git-ready](http://dolphm.com/git-ready/): I found OpenStack's Gerrit workflow to be a little cumbersome and (ironically) anti-social, so I built to a tool to eliminate that pain and promote positive social interactions.
+
 - [github.com/dolph/recipes](https://github.com/dolph/recipes): I love to cook, and I manage my recipe collection with version control nearly every day.
 
 - [pasteraw](http://pasteraw.com/): Frustrated by slow pastebin services with poor CLI support, I built an incredibly fast, lightweight plaintext pastebin service that pushes content directly to a CDN-enabled object store.
