@@ -17,9 +17,10 @@ In the early days of OpenStack, I helped move the the OpenStack community from a
 I developed a rigorous appetite for thorough automated testing (particularly important when working with thousands of fellow technical contributors) and comprehensive continuous integration (from `git push` to shipping release artifacts).
 
 - Core technology stack:
- - Languages & data formats: Python, bash, JSON, YAML
- - Deployment automation: Ansible
- - ORM: SQLAlchemy
+
+  - Languages & data formats: Python, bash, JSON, YAML
+  - Deployment automation: Ansible
+  - ORM: SQLAlchemy
 
 ## Akimeka (June 2009 &mdash; May 2011)
 
