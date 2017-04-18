@@ -48,9 +48,9 @@ At [Akimeka](http://www.akimeka.com/), I worked as a software engineer for the D
 
 ## Side projects
 
-- [git-ready](http://dolphm.com/git-ready/): I found OpenStack's Gerrit workflow to be a little cumbersome and (ironically) anti-social, so I built to a tool to eliminate that pain and promote positive social interactions.
+- [git-ready](http://dolphm.com/git-ready/): I found OpenStack's Gerrit workflow to be a little cumbersome and (ironically) anti-social, so I built to a [Python](https://www.python.org/)-based CLI tool to eliminate that pain and promote positive social interactions.
 
-- [github.com/dolph/recipes](https://github.com/dolph/recipes): I love to cook, and I manage my recipe collection with version control nearly every day.
+- [github.com/dolph/recipes](https://github.com/dolph/recipes): I love to cook, and I version control my recipe collection with [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/) nearly every day.
 
 - [pasteraw](http://pasteraw.com/): Frustrated by slow pastebin services with poor CLI support, I built an incredibly fast, lightweight plaintext pastebin service that pushes content directly to a CDN-enabled object store.
 
@@ -60,4 +60,4 @@ At [Akimeka](http://www.akimeka.com/), I worked as a software engineer for the D
 
 - [poker-hand-evaluator](https://github.com/dolph/poker-hand-evaluator): I found that evaluating and comparing poker hands to be an incredibly interesting and multifaceted problem. As a fun exercise, I built a command line tool in [Go](https://golang.org/), mostly using bitwise operations, to identify the best 5-card poker hand out from a 7-card set. The result is a unique integer that represents the strength of the hand, allowing the hand to be compared to other 5- and 7-card hands to determine a winner.
 
-- [Boudros](http://boudros.com/) and [Zinc](http://zincwine.com/): During high school and college, I built websites and web applications for various clients as a freelancer, mostly on a LAMP stack. Today, I still maintain two restaurant websites for dad's business, running on [chaussette](https://chaussette.readthedocs.io/), Python ([Pylons](http://pylonsproject.org/)) and [MongoDB](https://www.mongodb.com/), all tested and deployed from a CI/CD pipeline using [ConcourseCI](https://concourse.ci/) (based on [Docker containers](https://www.docker.com/)) and [Ansible](https://www.ansible.com/).
+- [Boudros](http://boudros.com/) and [Zinc](http://zincwine.com/): During high school and college, I built websites and web applications for various clients as a freelancer, mostly on a LAMP stack. Today, I still maintain two restaurant websites for dad's business, running on [chaussette](https://chaussette.readthedocs.io/), [Python](https://www.python.org/) ([Pylons](http://pylonsproject.org/)) and [MongoDB](https://www.mongodb.com/), all tested and deployed from a CI/CD pipeline using [ConcourseCI](https://concourse.ci/) (based on [Docker containers](https://www.docker.com/)) and [Ansible](https://www.ansible.com/).
