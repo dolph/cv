@@ -46,7 +46,7 @@ At [Akimeka](http://www.akimeka.com/), I worked as a software engineer for the D
   - Issue management: [FogBugz](https://www.fogcreek.com/fogbugz/)
   - Code review: [Code Collaborator](https://smartbear.com/product/collaborator/overview/) 
 
-## University of Texas at Austin (2005-2009)
+## University of Texas at Austin (2005 &mdash; 2009)
 
 Bachelor of Science, **Electrical & Computer Engineering**
 
