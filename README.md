@@ -22,18 +22,18 @@ I developed a rigorous appetite for a documentation-first approach (which pushes
   - Data stores: [MySQL](https://www.mysql.com/), [memcached](https://memcached.org/)
   
 - Development tools:
-  - Editor: vim
-  - Version control: git
-  - Issue management: LaunchPad, Trello
-  - Code review: Gerrit
-  - Continuous integration: Jenkins, Wercker, TravisCI
+  - Editor: [vim](http://www.vim.org/)
+  - Version control: [git](https://git-scm.com/)
+  - Issue management: [LaunchPad](https://launchpad.net/~dolph), [Trello](https://trello.com/)
+  - Code review: [Gerrit](https://www.gerritcodereview.com/)
+  - Continuous integration: [Jenkins](https://jenkins.io/), [Wercker](https://www.wercker.com/], [TravisCI](https://travis-ci.org/)
 
 ## Akimeka (June 2009 &mdash; May 2011)
 
 At [Akimeka](http://www.akimeka.com/), I worked as a software engineer for the Department of Defense (DoD) Defense Healthcare Management System (DHMS) while holding a Secret security clearance.
 
 - Core technology stack:
-  - Languages & data formats: Java EE, XML
+  - Languages & data formats: [Java EE](http://www.oracle.com/technetwork/java/javaee/overview/index.html), [XML](https://en.wikipedia.org/wiki/XML)
   - Application server: [JBoss AS](https://en.wikipedia.org/wiki/WildFly) (now known as [WildFly](http://wildfly.org/))
   - Application framework: [JBoss Seam](https://en.wikipedia.org/wiki/JBoss_Seam)
   - Interface framework: [JavaServer Faces](https://en.wikipedia.org/wiki/JavaServer_Faces) (JSF)
