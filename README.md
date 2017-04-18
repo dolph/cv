@@ -34,17 +34,17 @@ At [Akimeka](http://www.akimeka.com/), I worked as a software engineer for the D
 
 - Core technology stack:
   - Languages & data formats: Java EE, XML
-  - Application server: JBoss
-  - Application framework: JBoss Seam
-  - Interface framework: JavaServer Faces (JSF)
-  - ORM: Hibernate
-  - Data store: Oracle SQL, XML-based sneakernet
+  - Application server: [JBoss AS](https://en.wikipedia.org/wiki/WildFly) (now known as [WildFly](http://wildfly.org/))
+  - Application framework: [JBoss Seam](https://en.wikipedia.org/wiki/JBoss_Seam)
+  - Interface framework: [JavaServer Faces](https://en.wikipedia.org/wiki/JavaServer_Faces) (JSF)
+  - ORM: [Hibernate](http://hibernate.org/orm/)
+  - Data store: [Oracle SQL](http://www.oracle.com/technetwork/database/), [XML-based sneakernet](https://en.wikipedia.org/wiki/Sneakernet)
 
 - Development tools:
-  - IDE: Eclipse
-  - Version control: Perforce
-  - Issue management: FogBugz
-  - Code review: Code Collaborator
+  - IDE: [Eclipse](https://eclipse.org/), [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+  - Version control: [Perforce](https://www.perforce.com/)
+  - Issue management: [FogBugz](https://www.fogcreek.com/fogbugz/)
+  - Code review: [Code Collaborator](https://smartbear.com/product/collaborator/overview/) 
 
 ## Side projects
 
