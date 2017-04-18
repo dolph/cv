@@ -14,13 +14,19 @@ During that time, I become a core contributor of [OpenStack Keystone](http://git
 
 In the early days of OpenStack, I helped move the the OpenStack community from a traditional GitHub-based workflow to performing code reviews via Gerrit. Since then, I've strived to provide other contributors with high-value constructive criticism, with an eye towards fostering new contributors, core reviewers, and technical leads both within Rackspace and beyond.
 
-I developed a rigorous appetite for thorough automated testing (particularly important when working with thousands of fellow technical contributors) and comprehensive continuous integration (from `git push` to shipping release artifacts).
+I developed a rigorous appetite for a documentation-first approach (which pushes developers to think through the user experience before diving into an implementation), thorough automated testing (particularly important when working with thousands of fellow technical contributors), and comprehensive continuous integration (from `git push` to shipping release artifacts).
 
 - Core technology stack:
-
   - Languages & data formats: Python, bash, JSON, YAML
   - Deployment automation: Ansible
   - ORM: SQLAlchemy
+  
+- Development tools:
+  - Editor: vim
+  - Version control: git
+  - Issue management: LaunchPad, Trello
+  - Code review: Gerrit
+  - Continuous integration: Jenkins, Wercker, TravisCI
 
 ## Akimeka (June 2009 &mdash; May 2011)
 
@@ -36,9 +42,9 @@ At [Akimeka](http://www.akimeka.com/), I worked as a software engineer for the D
 
 - Development tools:
   - IDE: Eclipse
+  - Version control: Perforce
   - Issue management: FogBugz
   - Code review: Code Collaborator
-  - Version control: Perforce
 
 ## Side projects
 
