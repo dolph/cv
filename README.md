@@ -34,19 +34,21 @@ Development tools:
 
 At [Akimeka](http://www.akimeka.com/), I worked as a software engineer for the Department of Defense (DoD) Defense Healthcare Management System (DHMS) while holding a Secret security clearance.
 
-- Core technology stack:
-  - Languages & data formats: [Java EE](http://www.oracle.com/technetwork/java/javaee/overview/index.html), [XML](https://en.wikipedia.org/wiki/XML)
-  - Application server: [JBoss AS](https://en.wikipedia.org/wiki/WildFly) (now known as [WildFly](http://wildfly.org/))
-  - Application framework: [JBoss Seam](https://en.wikipedia.org/wiki/JBoss_Seam)
-  - Interface framework: [JavaServer Faces](https://en.wikipedia.org/wiki/JavaServer_Faces) (JSF)
-  - ORM: [Hibernate](http://hibernate.org/orm/)
-  - Data store: [Oracle SQL](http://www.oracle.com/technetwork/database/), [XML-based sneakernet](https://en.wikipedia.org/wiki/Sneakernet)
+Core technology stack:
 
-- Development tools:
-  - IDE: [Eclipse](https://eclipse.org/), [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-  - Version control: [Perforce](https://www.perforce.com/)
-  - Issue management: [FogBugz](https://www.fogcreek.com/fogbugz/)
-  - Code review: [Code Collaborator](https://smartbear.com/product/collaborator/overview/) 
+- Languages & data formats: [Java EE](http://www.oracle.com/technetwork/java/javaee/overview/index.html), [XML](https://en.wikipedia.org/wiki/XML)
+- Application server: [JBoss AS](https://en.wikipedia.org/wiki/WildFly) (now known as [WildFly](http://wildfly.org/))
+- Application framework: [JBoss Seam](https://en.wikipedia.org/wiki/JBoss_Seam)
+- Interface framework: [JavaServer Faces](https://en.wikipedia.org/wiki/JavaServer_Faces) (JSF)
+- ORM: [Hibernate](http://hibernate.org/orm/)
+- Data store: [Oracle SQL](http://www.oracle.com/technetwork/database/), [XML-based sneakernet](https://en.wikipedia.org/wiki/Sneakernet)
+
+Development tools:
+
+- IDE: [Eclipse](https://eclipse.org/), [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- Version control: [Perforce](https://www.perforce.com/)
+- Issue management: [FogBugz](https://www.fogcreek.com/fogbugz/)
+- Code review: [Code Collaborator](https://smartbear.com/product/collaborator/overview/) 
 
 ## University of Texas at Austin (2005 &mdash; 2009)
 
