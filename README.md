@@ -19,7 +19,7 @@ I developed a rigorous appetite for a documentation-first approach (which pushes
 - Core technology stack:
   - Languages & data formats: Python, bash, JSON, YAML
   - Deployment automation: Ansible
-  - ORM: SQLAlchemy
+  - Data stores: memcache, MySQL, LDAP
   
 - Development tools:
   - Editor: vim
@@ -38,7 +38,7 @@ At [Akimeka](http://www.akimeka.com/), I worked as a software engineer for the D
   - Application framework: JBoss Seam
   - Interface framework: JavaServer Faces (JSF)
   - ORM: Hibernate
-  - Datastore: Oracle SQL
+  - Data store: Oracle SQL, XML-based sneakernet
 
 - Development tools:
   - IDE: Eclipse
