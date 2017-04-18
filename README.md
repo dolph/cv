@@ -46,6 +46,10 @@ At [Akimeka](http://www.akimeka.com/), I worked as a software engineer for the D
   - Issue management: [FogBugz](https://www.fogcreek.com/fogbugz/)
   - Code review: [Code Collaborator](https://smartbear.com/product/collaborator/overview/) 
 
+## University of Texas at Austin (2005-2009)
+
+Bachelor of Science, **Electrical & Computer Engineering**
+
 ## Side projects
 
 - [git-ready](http://dolphm.com/git-ready/): I found OpenStack's Gerrit workflow to be a little cumbersome and (ironically) anti-social, so I built to a [Python](https://www.python.org/)-based CLI tool to eliminate that pain and promote positive social interactions.
