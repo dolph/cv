@@ -26,7 +26,7 @@ I developed a rigorous appetite for a documentation-first approach (which pushes
   - Version control: [git](https://git-scm.com/)
   - Issue management: [LaunchPad](https://launchpad.net/~dolph), [Trello](https://trello.com/)
   - Code review: [Gerrit](https://www.gerritcodereview.com/)
-  - Continuous integration: [Jenkins](https://jenkins.io/), [Wercker](https://www.wercker.com/], [TravisCI](https://travis-ci.org/)
+  - Continuous integration: [Jenkins](https://jenkins.io/), [Wercker](https://www.wercker.com/), [TravisCI](https://travis-ci.org/)
 
 ## Akimeka (June 2009 &mdash; May 2011)
 
