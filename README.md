@@ -16,17 +16,19 @@ In the early days of OpenStack, I helped kickstart OpenStack's code review disci
 
 I developed a rigorous appetite for a documentation-first approach (which pushes developers to think through the user experience before diving into an implementation), thorough automated testing (particularly important when working with thousands of fellow technical contributors), and comprehensive continuous integration (from `git push` to shipping release artifacts).
 
-- Core technology stack:
-  - Languages & data formats: [Python](https://www.python.org), [bash](https://www.gnu.org/software/bash/), [JSON](http://www.json.org/), [YAML](http://yaml.org/)
-  - Deployment automation: [Ansible](https://www.ansible.com/)
-  - Data stores: [MySQL](https://www.mysql.com/), [memcached](https://memcached.org/)
+Core technology stack:
+
+- Languages & data formats: [Python](https://www.python.org), [bash](https://www.gnu.org/software/bash/), [JSON](http://www.json.org/), [YAML](http://yaml.org/)
+- Deployment automation: [Ansible](https://www.ansible.com/)
+- Data stores: [MySQL](https://www.mysql.com/), [memcached](https://memcached.org/)
   
-- Development tools:
-  - Editor: [vim](http://www.vim.org/)
-  - Version control: [git](https://git-scm.com/)
-  - Issue management: [LaunchPad](https://launchpad.net/~dolph), [Trello](https://trello.com/)
-  - Code review: [Gerrit](https://www.gerritcodereview.com/)
-  - Continuous integration: [Jenkins](https://jenkins.io/), [Wercker](https://www.wercker.com/), [TravisCI](https://travis-ci.org/)
+Development tools:
+
+- Editor: [vim](http://www.vim.org/)
+- Version control: [git](https://git-scm.com/)
+- Issue management: [LaunchPad](https://launchpad.net/~dolph), [Trello](https://trello.com/)
+- Code review: [Gerrit](https://www.gerritcodereview.com/)
+- Continuous integration: [Jenkins](https://jenkins.io/), [Wercker](https://www.wercker.com/), [TravisCI](https://travis-ci.org/)
 
 ## Akimeka (June 2009 &mdash; May 2011)
 
