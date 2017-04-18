@@ -60,7 +60,7 @@ Bachelor of Science, **Electrical & Computer Engineering**
 
 - [github.com/dolph/recipes](https://github.com/dolph/recipes): I love to cook, and I version control my recipe collection with [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/) nearly every day.
 
-- [pasteraw](http://pasteraw.com/): Frustrated by slow pastebin services with poor CLI support, I built an incredibly fast, lightweight plaintext pastebin service that pushes content directly to a CDN-enabled object store.
+- [pasteraw](http://pasteraw.com/): Frustrated by slow pastebin services with poor CLI support, I built an incredibly fast, lightweight plaintext pastebin service that pushes content directly to a CDN-enabled object store. On the backend, it's running on nginx
 
 - [@SteamyDeals](https://twitter.com/steamydeals): As a PC gamer, I found it difficult to keep up with [Steam's](http://store.steampowered.com/) frequent sales, deep discounts, and rapidly expanding product catalog, so I built a bot to identify and track highly-rated, popular games, and send notifications only when those products reach their best prices. On the backend, it features a full CI/CD pipeline that deploys a serverless PaaS-based architecture (utilizing application containers, message queues, and a fully-managed SQL service) from just a `git push`.
 
