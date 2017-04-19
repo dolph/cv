@@ -29,6 +29,7 @@ Development tools:
 - Issue management: [LaunchPad](https://launchpad.net/~dolph), [Trello](https://trello.com/)
 - Code review: [Gerrit](https://www.gerritcodereview.com/)
 - Continuous integration: [Jenkins](https://jenkins.io/), [Wercker](https://www.wercker.com/), [TravisCI](https://travis-ci.org/)
+- Development platforms: [Debian Linux](https://www.debian.org/), [Ubuntu Linux](https://www.ubuntu.com/), [OS X](https://www.apple.com/macos/)
 
 ## Akimeka (June 2009 &mdash; May 2011)
 
@@ -48,7 +49,8 @@ Development tools:
 - IDE: [Eclipse](https://eclipse.org/), [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - Version control: [Perforce](https://www.perforce.com/)
 - Issue management: [FogBugz](https://www.fogcreek.com/fogbugz/)
-- Code review: [Code Collaborator](https://smartbear.com/product/collaborator/overview/) 
+- Code review: [Code Collaborator](https://smartbear.com/product/collaborator/overview/)
+- Development platforms: [Windows](https://www.microsoft.com/en-us/windows/)
 
 ## University of Texas at Austin (2005 &mdash; 2009)
 
