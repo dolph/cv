@@ -8,7 +8,7 @@
 
 ## Rackspace (June 2011 &mdash; present)
 
-At [Rackspace](https://www.rackspace.com/), I worked as an open source [Python](https://www.python.org/) developer in the [OpenStack](https://www.openstack.org/) community. I was rapidly promoted to **Software Engineer V**, and then advanced to **Principal Engineer** in November 2014.
+At [Rackspace](https://www.rackspace.com/), I worked as an open source [Python](https://www.python.org/) developer, on a globally distributed team, in the [OpenStack](https://www.openstack.org/) community. I was rapidly promoted to **Software Engineer V**, and then advanced to **Principal Engineer** in November 2014.
 
 During that time, I become a core contributor of [OpenStack Keystone](http://github.com/openstack/keystone), the identity service for OpenStack-based clouds, and I was subsequently elected by my peers as the Project Technical Lead (PTL) and a member of the [OpenStack Technical Committee](https://www.openstack.org/foundation/tech-committee/) (TC). Later, I helped launch the [OpenStack Innovation Center](https://osic.org/), a joint partnership between [Rackspace](https://www.rackspace.com/) and [Intel](https://01.org/), as a technical lead and cross-project liaison. I also helped lead the broader OpenStack technical strategy at Rackspace via the OpenStack Technical Leadership Team and the Rackspace Private Cloud architecture group.
 
