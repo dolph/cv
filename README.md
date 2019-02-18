@@ -13,11 +13,29 @@ At [IBM](https://www.ibm.com/), I worked on a team responsible for developing an
 Several of my accomplishments with IBM Developer focus on allowing a small team of developer advocates to scalably build, deliver, and maintain thousands of pieces of technical content spread across hundreds of git repositories, primarily by building automation and tests. For example:
 
 * automatically identifying and updating broken and outdated links,
+* building a tool to interactively validate Markdown frontmatter in YAML (using JSON Schema),
 * automating the conversion of a legacy documentation format (XML to Markdown),
 * updating branding of IBM products and services, and
 * writing Selenium tests to exercise previously-untested workflows in the IBM Cloud console.
 
 I was also entrusted to serve as an admin of IBM's open source presence on GitHub, [github.com/IBM](https://github.com/ibm/), managing the creation of open source projects and the integration with 3rd party services.
+
+Core technology stack:
+
+- [Python](https://www.python.org)
+- [bash](https://www.gnu.org/software/bash/)
+- [JSON](http://www.json.org/)
+- [YAML](http://yaml.org/)
+- [Markdown](https://daringfireball.net/projects/markdown/syntax)
+- [JSON Schema](https://json-schema.org/)
+
+Development tools:
+
+- Editor: [vim](http://www.vim.org/)
+- Version control: [git](https://git-scm.com/)
+- Issue management & code review: [GitHub](https://www.github.com/)
+- Continuous integration: [TravisCI](https://travis-ci.org/)
+- Development platforms: [Ubuntu Linux](https://www.ubuntu.com/)
 
 ## Rackspace (2011 &mdash; 2017)
 
