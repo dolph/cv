@@ -2,11 +2,11 @@
 
 - Email: [dolph.mathews@gmail.com](mailto:dolph.mathews@gmail.com)
 - Twitter: [@dolphm](https://twitter.com/dolphm)
-- Blog: [dolphm.com](http://www.dolphm.com/)
+- Blog: [dolphm.com](http://blog.dolphm.com/)
 - LinkedIn: [Profile](https://www.linkedin.com/in/dolphmathews/)
 - GitHub: [github.com/dolph](https://github.com/dolph/)
 
-## Rackspace (June 2011 &mdash; present)
+## Rackspace (2011 &mdash; 2017)
 
 At [Rackspace](https://www.rackspace.com/), I worked as an open source [Python](https://www.python.org/) developer, on a globally distributed team, in the [OpenStack](https://www.openstack.org/) community. I was rapidly promoted to **Software Engineer V**, and then advanced to **Principal Engineer** in November 2014.
 
@@ -31,7 +31,7 @@ Development tools:
 - Continuous integration: [Jenkins](https://jenkins.io/), [Wercker](https://www.wercker.com/), [TravisCI](https://travis-ci.org/)
 - Development platforms: [Debian Linux](https://www.debian.org/), [Ubuntu Linux](https://www.ubuntu.com/), [OS X](https://www.apple.com/macos/)
 
-## Akimeka (June 2009 &mdash; May 2011)
+## Akimeka (2009 &mdash; 2011)
 
 At [Akimeka](http://www.akimeka.com/), I worked as a software engineer for the Department of Defense (DoD) Defense Healthcare Management System (DHMS) while holding a Secret security clearance.
 
@@ -58,16 +58,16 @@ Bachelor of Science, **Electrical & Computer Engineering**
 
 ## Side projects
 
+I've had many more side projects, but this is a handful I enjoy talking about.
+
 - [git-ready](http://dolphm.com/git-ready/): I found OpenStack's Gerrit workflow to be a little cumbersome and (ironically) anti-social, so I built to a [Python](https://www.python.org/)-based CLI tool to eliminate that pain and promote positive social interactions.
 
-- [github.com/dolph/recipes](https://github.com/dolph/recipes): I love to cook, and I version control my recipe collection with [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/) nearly every day.
+- [github.com/dolph/recipes](https://github.com/dolph/recipes): I love to cook, and I version control my recipe collection with [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-- [pasteraw](http://pasteraw.com/): Frustrated by slow pastebin services with poor CLI support, I built a fast, lightweight plaintext pastebin service that pushes content directly to a CDN-enabled object store.
+- [pasteraw](http://github.com/dolph/pasteraw): Frustrated by slow pastebin services with poor CLI support, I built a fast, lightweight plaintext pastebin service that pushes content directly to a CDN-enabled object store. A few members of the OpenStack community adopted it, as well. Pastes are still available today via CDN, but the frontend has been shutdown.
 
 - [@SteamyDeals](https://twitter.com/steamydeals): As a PC gamer, I found it difficult to keep up with [Steam's](http://store.steampowered.com/) frequent sales, deep discounts, and rapidly expanding product catalog, so I built a bot to identify and track highly-rated, popular games, and send notifications only when those products reach their best prices. On the backend, it features a full CI/CD pipeline that deploys a serverless PaaS-based architecture (utilizing application containers, message queues, and a fully-managed SQL service) from just a `git push`.
 
-- [hyperf](https://github.com/dolph/hyperf) (unfinished): Faced with a need for the statistical analytics of [ApacheBench](https://httpd.apache.org/docs/2.4/programs/ab.html), the need for more flexibility in building HTTP requests, and a desire to generate as much concurrency as possible, I picked up [Rust](https://www.rust-lang.org/) and set out to write a modern command line tool for measuring HTTP performance.
-
-- [poker-hand-evaluator](https://github.com/dolph/poker-hand-evaluator): I found that evaluating and comparing poker hands to be an incredibly interesting and multifaceted problem. As a fun exercise, I built a command line tool in [Go](https://golang.org/), mostly using bitwise operations, to identify the best 5-card poker hand out from a 7-card set. The result is a unique integer that represents the strength of the hand, allowing the hand to be compared to other 5- and 7-card hands to determine a winner.
+- [poker-hand-evaluator](https://github.com/dolph/poker-hand-evaluator): I found that evaluating and comparing poker hands to be an incredibly interesting and multifaceted problem. As a fun exercise, I built a no-frills command line tool in [Go](https://golang.org/), mostly using bitwise operations, to efficiently identify the best 5-card poker hand out from a 7-card set. The result is a unique integer that represents the strength of the hand, allowing the hand to be compared to other 5- and 7-card hands to determine a winner.
 
 - [Boudros](http://boudros.com/) and [Zinc](http://zincwine.com/): Throughout middle school, high school, and college, I built websites and web applications for various clients as a freelancer, mostly on a LAMP stack. Today, I still maintain two restaurant websites for dad's business, running on [chaussette](https://chaussette.readthedocs.io/), [Python](https://www.python.org/) ([Pylons](http://pylonsproject.org/)) and [MongoDB](https://www.mongodb.com/), all tested and deployed from a CI/CD pipeline using [ConcourseCI](https://concourse.ci/) (based on [Docker containers](https://www.docker.com/)) and [Fabric](http://www.fabfile.org/).
