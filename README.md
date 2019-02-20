@@ -20,22 +20,9 @@ Several of my accomplishments with IBM Developer focus on allowing a small team 
 
 I was also entrusted to serve as an administrator of IBM's open source presence on GitHub, [github.com/IBM](https://github.com/ibm/), managing the creation of open source projects and the integration with 3rd party services.
 
-Core technology stack:
+Core technology stack: [Python](https://www.python.org), [bash](https://www.gnu.org/software/bash/), [JSON](http://www.json.org/), [YAML](http://yaml.org/), [Markdown](https://daringfireball.net/projects/markdown/syntax), [JSON Schema](https://json-schema.org/)
 
-- [Python](https://www.python.org)
-- [bash](https://www.gnu.org/software/bash/)
-- [JSON](http://www.json.org/)
-- [YAML](http://yaml.org/)
-- [Markdown](https://daringfireball.net/projects/markdown/syntax)
-- [JSON Schema](https://json-schema.org/)
-
-Development tools:
-
-- Editor: [vim](http://www.vim.org/)
-- Version control: [git](https://git-scm.com/)
-- Issue management & code review: [GitHub](https://www.github.com/)
-- Continuous integration: [TravisCI](https://travis-ci.org/)
-- Development platforms: [Ubuntu Linux](https://www.ubuntu.com/)
+Development tools: [vim](http://www.vim.org/), [git](https://git-scm.com/), [GitHub](https://www.github.com/), [TravisCI](https://travis-ci.org/), [Ubuntu Linux](https://www.ubuntu.com/)
 
 ## Rackspace (2011 &mdash; 2017)
 
@@ -47,41 +34,17 @@ Reviewing code from other contributors was one of my most satisfying endeavors. 
 
 I developed a rigorous appetite for a documentation-first approach (which pushes developers to think through the user experience before diving into an implementation), thorough automated testing (particularly important when working with thousands of fellow technical contributors), and comprehensive continuous integration (from `git push` to shipping release artifacts).
 
-Core technology stack:
-
-- Languages & data formats: [Python](https://www.python.org), [bash](https://www.gnu.org/software/bash/), [JSON](http://www.json.org/), [YAML](http://yaml.org/)
-- Deployment automation: [Ansible](https://www.ansible.com/)
-- Data stores: [MySQL](https://www.mysql.com/), [memcached](https://memcached.org/)
+Core technology stack: [Python](https://www.python.org), [bash](https://www.gnu.org/software/bash/), [JSON](http://www.json.org/), [YAML](http://yaml.org/), [Ansible](https://www.ansible.com/), [MySQL](https://www.mysql.com/), [memcached](https://memcached.org/)
   
-Development tools:
-
-- Editor: [vim](http://www.vim.org/)
-- Version control: [git](https://git-scm.com/)
-- Issue management: [LaunchPad](https://launchpad.net/~dolph), [Trello](https://trello.com/)
-- Code review: [Gerrit](https://www.gerritcodereview.com/)
-- Continuous integration: [Jenkins](https://jenkins.io/), [Wercker](https://www.wercker.com/), [TravisCI](https://travis-ci.org/)
-- Development platforms: [Debian Linux](https://www.debian.org/), [Ubuntu Linux](https://www.ubuntu.com/), [OS X](https://www.apple.com/macos/)
+Development tools: [vim](http://www.vim.org/), [git](https://git-scm.com/), [LaunchPad](https://launchpad.net/~dolph), [Trello](https://trello.com/), [Gerrit](https://www.gerritcodereview.com/), [Jenkins](https://jenkins.io/), [Wercker](https://www.wercker.com/), [TravisCI](https://travis-ci.org/), [Debian Linux](https://www.debian.org/), [Ubuntu Linux](https://www.ubuntu.com/), [OS X](https://www.apple.com/macos/)
 
 ## Akimeka (2009 &mdash; 2011)
 
 At [Akimeka](http://www.akimeka.com/), I worked as a software engineer for the Department of Defense (DoD) Defense Healthcare Management System (DHMS) while holding a Secret security clearance.
 
-Core technology stack:
+Core technology stack: [Java EE](http://www.oracle.com/technetwork/java/javaee/overview/index.html), [XML](https://en.wikipedia.org/wiki/XML), [JBoss AS](https://en.wikipedia.org/wiki/WildFly) (now known as [WildFly](http://wildfly.org/)), [JBoss Seam](https://en.wikipedia.org/wiki/JBoss_Seam), [JavaServer Faces](https://en.wikipedia.org/wiki/JavaServer_Faces) (JSF), [Hibernate](http://hibernate.org/orm/), [Oracle SQL](http://www.oracle.com/technetwork/database/), [XML-based sneakernet](https://en.wikipedia.org/wiki/Sneakernet)
 
-- Languages & data formats: [Java EE](http://www.oracle.com/technetwork/java/javaee/overview/index.html), [XML](https://en.wikipedia.org/wiki/XML)
-- Application server: [JBoss AS](https://en.wikipedia.org/wiki/WildFly) (now known as [WildFly](http://wildfly.org/))
-- Application framework: [JBoss Seam](https://en.wikipedia.org/wiki/JBoss_Seam)
-- Interface framework: [JavaServer Faces](https://en.wikipedia.org/wiki/JavaServer_Faces) (JSF)
-- ORM: [Hibernate](http://hibernate.org/orm/)
-- Data store: [Oracle SQL](http://www.oracle.com/technetwork/database/), [XML-based sneakernet](https://en.wikipedia.org/wiki/Sneakernet)
-
-Development tools:
-
-- IDE: [Eclipse](https://eclipse.org/), [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-- Version control: [Perforce](https://www.perforce.com/)
-- Issue management: [FogBugz](https://www.fogcreek.com/fogbugz/)
-- Code review: [Code Collaborator](https://smartbear.com/product/collaborator/overview/)
-- Development platforms: [Windows](https://www.microsoft.com/en-us/windows/)
+Development tools: [Eclipse](https://eclipse.org/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Perforce](https://www.perforce.com/), [FogBugz](https://www.fogcreek.com/fogbugz/), [Code Collaborator](https://smartbear.com/product/collaborator/overview/), [Windows](https://www.microsoft.com/en-us/windows/)
 
 ## University of Texas at Austin (2005 &mdash; 2009)
 
