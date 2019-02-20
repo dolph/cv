@@ -8,7 +8,7 @@
 
 ## IBM (2017 &mdash; present)
 
-At [IBM](https://www.ibm.com/), I worked on a team responsible for developing and managing technical content on [developer.ibm.com](https://developer.ibm.com/) such as tutorials, articles, and code patterns covering topics such as IBM Watson and IBM Cloud. A code pattern is an open source example demonstrating how developers can leverage specific IBM services in their projects and are presented by developer advocates in labs, workshops, and presentations.
+At [IBM](https://www.ibm.com/), I worked on a team responsible for developing and managing developer advocacy content on [IBM Developer](https://developer.ibm.com/) such as tutorials, articles, and code patterns covering topics such as IBM Watson and IBM Cloud. A code pattern is an open source example demonstrating how developers can leverage specific IBM services in their projects and are presented by developer advocates in labs, workshops, and presentations.
 
 Several of my accomplishments with IBM Developer focus on allowing a small team of developer advocates to build, deliver, and maintain thousands of pieces of technical content spread across hundreds of git repositories in a scalable manner. For example:
 
@@ -18,7 +18,7 @@ Several of my accomplishments with IBM Developer focus on allowing a small team 
 * updating branding of IBM products and services, and
 * writing Selenium tests to exercise previously-untested workflows in the IBM Cloud console.
 
-I was also entrusted to serve as an admin of IBM's open source presence on GitHub, [github.com/IBM](https://github.com/ibm/), managing the creation of open source projects and the integration with 3rd party services.
+I was also entrusted to serve as an administrator of IBM's open source presence on GitHub, [github.com/IBM](https://github.com/ibm/), managing the creation of open source projects and the integration with 3rd party services.
 
 Core technology stack:
 
