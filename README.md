@@ -22,7 +22,7 @@ I was also entrusted to serve as an administrator of IBM's open source presence 
 
 Core technology stack: [Python](https://www.python.org), [bash](https://www.gnu.org/software/bash/), [JSON](http://www.json.org/), [YAML](http://yaml.org/), [Markdown](https://daringfireball.net/projects/markdown/syntax), [JSON Schema](https://json-schema.org/)
 
-Development tools: [vim](http://www.vim.org/), [git](https://git-scm.com/), [GitHub](https://www.github.com/), [TravisCI](https://travis-ci.org/), [Ubuntu Linux](https://www.ubuntu.com/)
+Primary development tools: [vim](http://www.vim.org/), [git](https://git-scm.com/), [GitHub](https://www.github.com/), [TravisCI](https://travis-ci.org/), [Ubuntu Linux](https://www.ubuntu.com/)
 
 ## Rackspace (2011 &mdash; 2017)
 
@@ -36,7 +36,7 @@ I developed a rigorous appetite for a documentation-first approach (which pushes
 
 Core technology stack: [Python](https://www.python.org), [bash](https://www.gnu.org/software/bash/), [JSON](http://www.json.org/), [YAML](http://yaml.org/), [Ansible](https://www.ansible.com/), [MySQL](https://www.mysql.com/), [memcached](https://memcached.org/)
   
-Development tools: [vim](http://www.vim.org/), [git](https://git-scm.com/), [LaunchPad](https://launchpad.net/~dolph), [Trello](https://trello.com/), [Gerrit](https://www.gerritcodereview.com/), [Jenkins](https://jenkins.io/), [Wercker](https://www.wercker.com/), [TravisCI](https://travis-ci.org/), [Debian Linux](https://www.debian.org/), [Ubuntu Linux](https://www.ubuntu.com/), [OS X](https://www.apple.com/macos/)
+Primary development tools: [vim](http://www.vim.org/), [git](https://git-scm.com/), [LaunchPad](https://launchpad.net/~dolph), [Trello](https://trello.com/), [Gerrit](https://www.gerritcodereview.com/), [Jenkins](https://jenkins.io/), [Wercker](https://www.wercker.com/), [TravisCI](https://travis-ci.org/), [Debian Linux](https://www.debian.org/), [Ubuntu Linux](https://www.ubuntu.com/), [OS X](https://www.apple.com/macos/)
 
 ## Akimeka (2009 &mdash; 2011)
 
@@ -44,7 +44,7 @@ At [Akimeka](http://www.akimeka.com/), I worked as a software engineer for the D
 
 Core technology stack: [Java EE](http://www.oracle.com/technetwork/java/javaee/overview/index.html), [XML](https://en.wikipedia.org/wiki/XML), [JBoss AS](https://en.wikipedia.org/wiki/WildFly) (now known as [WildFly](http://wildfly.org/)), [JBoss Seam](https://en.wikipedia.org/wiki/JBoss_Seam), [JavaServer Faces](https://en.wikipedia.org/wiki/JavaServer_Faces) (JSF), [Hibernate](http://hibernate.org/orm/), [Oracle SQL](http://www.oracle.com/technetwork/database/), [XML-based sneakernet](https://en.wikipedia.org/wiki/Sneakernet)
 
-Development tools: [Eclipse](https://eclipse.org/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Perforce](https://www.perforce.com/), [FogBugz](https://www.fogcreek.com/fogbugz/), [Code Collaborator](https://smartbear.com/product/collaborator/overview/), [Windows](https://www.microsoft.com/en-us/windows/)
+Primary development tools: [Eclipse](https://eclipse.org/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Perforce](https://www.perforce.com/), [FogBugz](https://www.fogcreek.com/fogbugz/), [Code Collaborator](https://smartbear.com/product/collaborator/overview/), [Windows](https://www.microsoft.com/en-us/windows/)
 
 ## University of Texas at Austin (2005 &mdash; 2009)
 
