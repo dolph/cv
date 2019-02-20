@@ -8,7 +8,7 @@
 
 ## IBM (2017 &mdash; present)
 
-At [IBM](https://www.ibm.com/), I worked on a team responsible for developing and managing developer advocacy content on [IBM Developer](https://developer.ibm.com/) such as tutorials, articles, and code patterns covering topics such as IBM Watson and IBM Cloud. A code pattern is an open source example demonstrating how developers can leverage specific IBM services in their projects and are presented by developer advocates in labs, workshops, and presentations.
+At [IBM](https://www.ibm.com/), I worked as a **Senior Developer Advocate** on a team responsible for developing and managing developer advocacy content on [IBM Developer](https://developer.ibm.com/) such as tutorials, articles, and code patterns covering topics such as IBM Watson and IBM Cloud. A code pattern is an open source example demonstrating how developers can leverage specific IBM services in their projects and are presented by developer advocates in labs, workshops, and presentations.
 
 Several of my accomplishments with IBM Developer focus on allowing a small team of developer advocates to build, deliver, and maintain thousands of pieces of technical content spread across hundreds of git repositories in a scalable manner. For example:
 
