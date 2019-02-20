@@ -1,5 +1,6 @@
 # Dolph Mathews
 
+- Curriculum Vitæ: [github.com/dolph/cv](https://github.com/dolph/cv)
 - Email: [dolph.mathews@gmail.com](mailto:dolph.mathews@gmail.com)
 - Twitter: [@dolphm](https://twitter.com/dolphm)
 - Blog: [dolphm.com](http://blog.dolphm.com/)
