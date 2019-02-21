@@ -19,6 +19,8 @@ Several of my accomplishments with IBM Developer focus on allowing a small team 
 * updating branding of IBM products and services, and
 * writing Selenium tests to exercise previously-untested workflows in the IBM Cloud console.
 
+> Dolph has gone out of his way to help the editorial team with several special projects. His help has been invaluable and has saved our team hours of work. He's streamlined and updated processes to make tools easier to use and to offload work from us. &mdash; Jill Amaya
+
 I was also entrusted to serve as an administrator of IBM's open source presence on GitHub, [github.com/IBM](https://github.com/ibm/), managing the creation of open source projects and the integration with 3rd party services.
 
 Core technology stack: [Python](https://www.python.org), [bash](https://www.gnu.org/software/bash/), [JSON](http://www.json.org/), [YAML](http://yaml.org/), [Markdown](https://daringfireball.net/projects/markdown/syntax), [JSON Schema](https://json-schema.org/)
