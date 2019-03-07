@@ -1,5 +1,7 @@
 # Dolph Mathews
 
+I'm a software developer that started with QBasic around 1995 and started working professionaly with PHP in 2000. My career has centered around building web applications, web services, and command-line tools. I find immense satisfaction in automating solutions, helping people save time and effort, writing tests, creating documentation, and building reliable, intuitive systems.
+
 - Curriculum Vitæ: [github.com/dolph/cv](https://github.com/dolph/cv)
 - Email: [dolph.mathews@gmail.com](mailto:dolph.mathews@gmail.com)
 - Twitter: [@dolphm](https://twitter.com/dolphm)
