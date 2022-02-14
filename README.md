@@ -59,7 +59,7 @@ Bachelor of Science, **Electrical & Computer Engineering**
 
 I've had many more side projects, but this is a handful I enjoy talking about.
 
-- [git-ready](http://dolphm.com/git-ready/): I found OpenStack's Gerrit workflow to be a little cumbersome and (ironically) anti-social, so I built to a [Python](https://www.python.org/)-based CLI tool to eliminate that pain and promote positive social interactions.
+- [git-ready](https://github.com/dolph/git-ready): I found OpenStack's Gerrit workflow to be a little cumbersome and (ironically) anti-social, so I built to a [Python](https://www.python.org/)-based CLI tool to eliminate that pain and promote positive social interactions.
 
 - [github.com/dolph/recipes](https://github.com/dolph/recipes): I love to cook, and I version control my recipe collection with [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
