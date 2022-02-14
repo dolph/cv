@@ -1,6 +1,6 @@
 # Dolph Mathews
 
-![Lint](https://github.com/dolph/cv/actions/workflows/markdown-lint/badge.svg)
+![Lint](https://github.com/dolph/cv/actions/workflows/markdown-lint.yml/badge.svg)
 
 I'm a software developer that started with QBasic around 1995 and started working professionally with PHP in 2000. My career has centered around building web applications, web services, and command-line tools. I find immense satisfaction in automating solutions, helping people save time and effort, writing tests, creating documentation, and building reliable, intuitive systems.
 
