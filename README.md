@@ -15,7 +15,7 @@ systems.
 - GitHub: [github.com/dolph](https://github.com/dolph/)
 - LinkedIn: [Profile](https://www.linkedin.com/in/dolphmathews/)
 
-## IBM (2017 &mdash; present)
+## IBM *Developer* (2017 &mdash; 2019)
 
 At [IBM](https://www.ibm.com/), I worked as a **Senior Developer Advocate** on
 a team responsible for developing and managing developer advocacy content on
