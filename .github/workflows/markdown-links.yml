@@ -14,5 +14,4 @@ jobs:
     - uses: actions/checkout@master
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
       with:
-        # LinkedIn returns 999 if you're not authenticated
-        aliveStatusCodes: 200, 999
+        config-file: .markdownlinks.json
