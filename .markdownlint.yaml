@@ -1,0 +1,4 @@
+# Example: https://github.com/DavidAnson/markdownlint/blob/main/schema/.markdownlint.yaml
+default: true
+MD013: false
+MD028: false  # github's markdown rendering handles this just fine
