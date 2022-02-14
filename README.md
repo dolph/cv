@@ -6,10 +6,8 @@ I'm a software developer that started with QBasic around 1995 and started workin
 
 - Curriculum Vitæ: [github.com/dolph/cv](https://github.com/dolph/cv)
 - Email: [dolph.mathews@gmail.com](mailto:dolph.mathews@gmail.com)
-- Twitter: [@dolphm](https://twitter.com/dolphm)
-- Blog: [dolphm.com](http://blog.dolphm.com/)
-- LinkedIn: [Profile](https://www.linkedin.com/in/dolphmathews/)
 - GitHub: [github.com/dolph](https://github.com/dolph/)
+- LinkedIn: [Profile](https://www.linkedin.com/in/dolphmathews/)
 
 ## IBM (2017 &mdash; present)
 
