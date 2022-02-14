@@ -158,13 +158,3 @@ I've had many more side projects, but this is a handful I enjoy talking about.
   7-card set. The result is a unique integer that represents the strength of
   the hand, allowing the hand to be compared to other 5- and 7-card hands to
   determine a winner.
-
-- [Boudros](http://boudros.com/) and [Zinc](http://zincwine.com/): Throughout
-  middle school, high school, and college, I built websites and web
-  applications for various clients as a freelancer, mostly on a LAMP stack.
-  Today, I still maintain two restaurant websites for dad's business, running
-  on [chaussette](https://chaussette.readthedocs.io/),
-  [Python](https://www.python.org/) ([Pylons](http://pylonsproject.org/)) and
-  [MongoDB](https://www.mongodb.com/), all tested and deployed from a CI/CD
-  pipeline using [ConcourseCI](https://concourse.ci/) (based on [Docker
-  containers](https://www.docker.com/)) and [Fabric](http://www.fabfile.org/).
