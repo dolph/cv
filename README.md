@@ -41,7 +41,7 @@ I developed a rigorous appetite for a documentation-first approach (which pushes
 
 Core technology stack: [Python](https://www.python.org), [bash](https://www.gnu.org/software/bash/), [JSON](http://www.json.org/), [YAML](http://yaml.org/), [Ansible](https://www.ansible.com/), [MySQL](https://www.mysql.com/), [memcached](https://memcached.org/)
 
-Primary development tools: [vim](http://www.vim.org/), [git](https://git-scm.com/), [LaunchPad](https://launchpad.net/~dolph), [Trello](https://trello.com/), [Gerrit](https://www.gerritcodereview.com/), [Jenkins](https://jenkins.io/), [Wercker](https://www.wercker.com/), [TravisCI](https://travis-ci.org/), [Debian Linux](https://www.debian.org/), [Ubuntu Linux](https://www.ubuntu.com/), [OS X](https://www.apple.com/macos/)
+Primary development tools: [vim](http://www.vim.org/), [git](https://git-scm.com/), [LaunchPad](https://launchpad.net/~dolph), [Trello](https://trello.com/), [Gerrit](https://www.gerritcodereview.com/), [Jenkins](https://jenkins.io/), [Wercker](https://devcenter.wercker.com/overview-and-core-concepts/wercker-features/), [TravisCI](https://travis-ci.org/), [Debian Linux](https://www.debian.org/), [Ubuntu Linux](https://www.ubuntu.com/), [OS X](https://www.apple.com/macos/)
 
 ## Akimeka (2009 &mdash; 2011)
 
