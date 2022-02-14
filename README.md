@@ -15,11 +15,11 @@ At [IBM](https://www.ibm.com/), I worked as a **Senior Developer Advocate** on a
 
 Several of my accomplishments with IBM Developer focus on allowing a small team of developer advocates to build, deliver, and maintain thousands of pieces of technical content spread across hundreds of git repositories in a scalable manner. For example:
 
-* automatically identifying and updating broken and outdated links,
-* building a tool to interactively validate Markdown frontmatter in YAML (using JSON Schema),
-* automating the conversion of a legacy documentation format (XML to Markdown),
-* updating branding of IBM products and services, and
-* writing Selenium tests to exercise previously-untested workflows in the IBM Cloud console.
+- automatically identifying and updating broken and outdated links,
+- building a tool to interactively validate Markdown frontmatter in YAML (using JSON Schema),
+- automating the conversion of a legacy documentation format (XML to Markdown),
+- updating branding of IBM products and services, and
+- writing Selenium tests to exercise previously-untested workflows in the IBM Cloud console.
 
 > Dolph has gone out of his way to help the editorial team with several special projects. His help has been invaluable and has saved our team hours of work. He's streamlined and updated processes to make tools easier to use and to offload work from us. &mdash; Jill Amaya
 
@@ -40,7 +40,7 @@ Reviewing code from other contributors was one of my most satisfying endeavors. 
 I developed a rigorous appetite for a documentation-first approach (which pushes developers to think through the user experience before diving into an implementation), thorough automated testing (particularly important when working with thousands of fellow technical contributors), and comprehensive continuous integration (from `git push` to shipping release artifacts).
 
 Core technology stack: [Python](https://www.python.org), [bash](https://www.gnu.org/software/bash/), [JSON](http://www.json.org/), [YAML](http://yaml.org/), [Ansible](https://www.ansible.com/), [MySQL](https://www.mysql.com/), [memcached](https://memcached.org/)
-  
+
 Primary development tools: [vim](http://www.vim.org/), [git](https://git-scm.com/), [LaunchPad](https://launchpad.net/~dolph), [Trello](https://trello.com/), [Gerrit](https://www.gerritcodereview.com/), [Jenkins](https://jenkins.io/), [Wercker](https://www.wercker.com/), [TravisCI](https://travis-ci.org/), [Debian Linux](https://www.debian.org/), [Ubuntu Linux](https://www.ubuntu.com/), [OS X](https://www.apple.com/macos/)
 
 ## Akimeka (2009 &mdash; 2011)
