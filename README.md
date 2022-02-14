@@ -132,6 +132,9 @@ Bachelor of Science, **Electrical & Computer Engineering**
 
 I've had many more side projects, but this is a handful I enjoy talking about.
 
+- [find-replace](https://github.com/dolph/find-replace): A fast find & replace
+  shell command written in Go.
+
 - [git-ready](https://github.com/dolph/git-ready): I found OpenStack's Gerrit
   workflow to be a little cumbersome and (ironically) anti-social, so I built
   to a [Python](https://www.python.org/)-based CLI tool to eliminate that pain
