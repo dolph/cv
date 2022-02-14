@@ -135,14 +135,14 @@ I've had many more side projects, but this is a handful I enjoy talking about.
 - [find-replace](https://github.com/dolph/find-replace): A fast find & replace
   shell command written in Go.
 
+- [github.com/dolph/recipes](https://github.com/dolph/recipes): I love to cook,
+  and I version control my recipe collection with [Github-flavored
+  Markdown](https://guides.github.com/features/mastering-markdown/).
+
 - [git-ready](https://github.com/dolph/git-ready): I found OpenStack's Gerrit
   workflow to be a little cumbersome and (ironically) anti-social, so I built
   to a [Python](https://www.python.org/)-based CLI tool to eliminate that pain
   and promote positive social interactions.
-
-- [github.com/dolph/recipes](https://github.com/dolph/recipes): I love to cook,
-  and I version control my recipe collection with [Github-flavored
-  Markdown](https://guides.github.com/features/mastering-markdown/).
 
 - [pasteraw](http://github.com/dolph/pasteraw): Frustrated by slow pastebin
   services with poor CLI support, I built a fast, lightweight plaintext
