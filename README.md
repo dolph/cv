@@ -176,6 +176,12 @@ I've had many more side projects, but this is a handful I enjoy talking about.
 - [find-replace](https://github.com/dolph/find-replace): A fast find & replace
   shell command written in Go.
 
+- [dotfiles](https://github.com/dolph/dotfiles): I've been version controlling
+  my desktop configuration files since 2013, across operating systems (OS X,
+  Ubuntu Linux, and Fedora Linux), and across multiple desktop environments
+  (Gnome, Xfce and i3). I now use Ansible to keep configuration across multiple
+  workstations in sync.
+
 - [github.com/dolph/recipes](https://github.com/dolph/recipes): I love to cook,
   and I version control my recipe collection with [Github-flavored
   Markdown](https://guides.github.com/features/mastering-markdown/).
