@@ -32,7 +32,8 @@ Enterprise Linux 8
 
 Primary development tools: [vim](http://www.vim.org/),
 [git](https://git-scm.com/), [GitHub](https://www.github.com/),
-[Fedora](https://getfedora.org/), [Vagrant](https://www.vagrantup.com/)
+[Fedora](https://getfedora.org/), [Vagrant](https://www.vagrantup.com/),
+[VirtualBox](https://www.virtualbox.org/)
 
 ## *Senior Developer Advocate*, IBM Developer (2017 &mdash; 2019)
 
