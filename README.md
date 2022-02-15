@@ -19,7 +19,7 @@ systems.
 
 As part of [IBM Quantum](https://www.ibm.com/quantum-computing/), I was
 responsible for the entire lifecycle of backend infrastructure running both
-production and research workloads.
+production and research & development workloads.
 
 Core technology stack: [Ansible](https://www.ansible.com/), [Concourse
 CI](https://concourse-ci.org/), [CentOS 7](https://www.centos.org/), [Red Hat
