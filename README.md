@@ -15,15 +15,33 @@ systems.
 - GitHub: [github.com/dolph](https://github.com/dolph/)
 - LinkedIn: [Profile](https://www.linkedin.com/in/dolphmathews/)
 
-## IBM *Developer* (2017 &mdash; 2019)
+## *Senior DevOps Engineer*, IBM Quantum (2019 &mdash; present)
 
-At [IBM](https://www.ibm.com/), I worked as a **Senior Developer Advocate** on
-a team responsible for developing and managing developer advocacy content on
-[IBM Developer](https://developer.ibm.com/) such as tutorials, articles, and
-code patterns covering topics such as IBM Watson and IBM Cloud. A code pattern
-is an open source example demonstrating how developers can leverage specific
-IBM services in their projects and are presented by developer advocates in
-labs, workshops, and presentations.
+As part of [IBM Quantum](https://www.ibm.com/quantum-computing/), I was
+responsible for the entire lifecycle of backend infrastructure running both
+production and research workloads.
+
+Core technology stack: [Ansible](https://www.ansible.com/), [Concourse
+CI](https://concourse-ci.org/), [CentOS 7](https://www.centos.org/), [Red Hat
+Enterprise Linux 8
+(RHEL8)](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux),
+[Dell iDRAC](https://www.dell.com/en-us/dt/solutions/openmanage/idrac.htm),
+[bash](https://www.gnu.org/software/bash/), [YAML](http://yaml.org/),
+[LogDNA](https://www.logdna.com/), [PagerDuty](https://www.logdna.com/),
+[Python 3](https://www.python.org/)
+
+Primary development tools: [vim](http://www.vim.org/),
+[git](https://git-scm.com/), [GitHub](https://www.github.com/),
+[Fedora](https://getfedora.org/)
+
+## *Senior Developer Advocate*, IBM Developer (2017 &mdash; 2019)
+
+As part of [IBM Developer](https://developer.ibm.com/), I worked on a team
+responsible for creating and managing developer advocacy content such as
+tutorials, articles, and code patterns covering topics such as IBM Watson and
+IBM Cloud. A code pattern is an open source example demonstrating how
+developers can leverage specific IBM services in their projects and are
+presented by developer advocates in labs, workshops, and presentations.
 
 Several of my accomplishments with IBM Developer focus on allowing a small team
 of developer advocates to build, deliver, and maintain thousands of pieces of
@@ -44,8 +62,8 @@ manner. For example:
   offload work from us. &mdash; Jill Amaya
 
 I was also entrusted to serve as an administrator of IBM's open source presence
-  on GitHub, [github.com/IBM](https://github.com/ibm/), managing the creation
-  of open source projects and the integration with 3rd party services.
+on GitHub, [github.com/IBM](https://github.com/ibm/), managing the creation of
+open source projects and the integration with 3rd party services.
 
 Core technology stack: [Python](https://www.python.org),
 [bash](https://www.gnu.org/software/bash/), [JSON](http://www.json.org/),
@@ -57,13 +75,13 @@ Primary development tools: [vim](http://www.vim.org/),
 [git](https://git-scm.com/), [GitHub](https://www.github.com/),
 [TravisCI](https://travis-ci.org/), [Ubuntu Linux](https://www.ubuntu.com/)
 
-## Rackspace (2011 &mdash; 2017)
+## *Principal Software Engineer*, Rackspace (2011-2017)
 
 At [Rackspace](https://www.rackspace.com/), I worked as an open source
 [Python](https://www.python.org/) developer, on a globally distributed team, in
-the [OpenStack](https://www.openstack.org/) community. I was rapidly promoted
-to **Software Engineer V**, and then advanced to **Principal Engineer** in
-November 2014.
+the [OpenStack](https://www.openstack.org/) community. After being hired as a
+**Software Engineer**, I was promoted to **Principal Engineer** in November
+2014.
 
 During that time, I become a core contributor of [OpenStack
 Keystone](http://github.com/openstack/keystone), the identity service for
@@ -84,10 +102,10 @@ with an eye towards fostering the community of new contributors, core
 reviewers, and technical leads both within Rackspace and beyond.
 
 I developed a rigorous appetite for a documentation-first approach (which
-  pushes developers to think through the user experience before diving into an
-  implementation), thorough automated testing (particularly important when
-  working with thousands of fellow technical contributors), and comprehensive
-  continuous integration (from `git push` to shipping release artifacts).
+pushes developers to think through the user experience before diving into an
+implementation), thorough automated testing (particularly important when
+working with thousands of fellow technical contributors), and comprehensive
+continuous integration (from `git push` to shipping release artifacts).
 
 Core technology stack: [Python](https://www.python.org),
 [bash](https://www.gnu.org/software/bash/), [JSON](http://www.json.org/),
@@ -102,11 +120,11 @@ Primary development tools: [vim](http://www.vim.org/),
 [TravisCI](https://travis-ci.org/), [Debian Linux](https://www.debian.org/),
 [Ubuntu Linux](https://www.ubuntu.com/), [OS X](https://www.apple.com/macos/)
 
-## Akimeka (2009 &mdash; 2011)
+## *Software Engineer*, Akimeka (2009 &mdash; 2011)
 
-At [Akimeka](http://www.akimeka.com/), I worked as a software engineer for the
-Department of Defense (DoD) Defense Healthcare Management System (DHMS) while
-holding a Secret security clearance.
+At [Akimeka](http://www.akimeka.com/), I worked on a project for the Department
+of Defense (DoD) Defense Healthcare Management System (DHMS) while holding a
+Secret security clearance.
 
 Core technology stack: [Java
 EE](http://www.oracle.com/technetwork/java/javaee/overview/index.html),
