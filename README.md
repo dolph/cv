@@ -4,7 +4,7 @@
 ![Links](https://github.com/dolph/cv/actions/workflows/markdown-links.yml/badge.svg)
 
 I'm a software developer that started with QBasic around 1995 and started
-working professionally with PHP in 2000. My career has centered around building
+working professionally with PHP in 2000. My career has centered around writing
 web applications, web services, and command-line tools. I find immense
 satisfaction in automating solutions, helping people save time and effort,
 writing tests, creating documentation, and building reliable, intuitive
@@ -20,6 +20,27 @@ systems.
 As part of [IBM Quantum](https://www.ibm.com/quantum-computing/), I was
 responsible for the entire lifecycle of backend infrastructure running both
 production and research & development workloads.
+
+I led the deployment automation effort for all backend Linux systems, which was
+previously done manually from docs with handful of bash snippets to a
+variety of different hardware configurations, operating systems, and platforms.
+After I converted all available documentation to Ansible playbooks, which I
+tested in Vagrant & VirtualBox, I helped standardize hardware and operating
+system configuration by automating the provisioning process from baremetal. I
+later introduced Concourse CI to provide a continuous integration and
+continuous deployment platform, meeting business needs across multiple
+geographically-distributed private networks while delivering changes across all
+production devices multiple times per day without human intervention.
+
+* *Squad Lead*: As squad lead, I ran daily standups, weekly backlog grooming,
+  biweekly retrospectives, and biweekly sprint planning for a team responsible
+  for backend infrastructure and Quantum control systems software. I also
+  worked to help other teams adopt agile practices.
+
+* *Security Owner*: As security owner for almost all baremetal Linux systems in
+  IBM Quantum, I leveraged our continuous deployment capabilities to rapidly
+  improve our security posture, mitigate and resolve vulnerabilities, and
+  manage authorization for internal users.
 
 Core technology stack: [Ansible](https://www.ansible.com/), [Concourse
 CI](https://concourse-ci.org/), [CentOS 7](https://www.centos.org/), [Red Hat
