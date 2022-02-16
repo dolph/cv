@@ -47,9 +47,9 @@ CI](https://concourse-ci.org/), [CentOS 7](https://www.centos.org/), [Red Hat
 Enterprise Linux 8
 (RHEL8)](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux),
 [Dell iDRAC](https://www.dell.com/en-us/dt/solutions/openmanage/idrac.htm),
-[bash](https://www.gnu.org/software/bash/), [YAML](http://yaml.org/),
-[LogDNA](https://www.logdna.com/), [PagerDuty](https://www.logdna.com/),
-[Python 3](https://www.python.org/)
+[bash](https://www.gnu.org/software/bash/), [YAML](http://yaml.org/), [Sysdig
+(statsd, Prometheus)](https://sysdig.com/), [LogDNA](https://www.logdna.com/),
+[PagerDuty](https://www.logdna.com/), [Python 3](https://www.python.org/)
 
 Primary development tools: [vim](http://www.vim.org/),
 [git](https://git-scm.com/), [GitHub](https://www.github.com/),
