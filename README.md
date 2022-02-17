@@ -32,12 +32,12 @@ continuous deployment platform, meeting business needs across multiple
 geographically-distributed private networks while delivering changes across all
 production devices multiple times per day without human intervention.
 
-* *Squad Lead*: As squad lead, I ran daily standups, weekly backlog grooming,
+- *Squad Lead*: As squad lead, I ran daily standups, weekly backlog grooming,
   biweekly retrospectives, and biweekly sprint planning for a team responsible
   for backend infrastructure and Quantum control systems software. I also
   worked to help other teams adopt agile practices.
 
-* *Security Owner*: As security owner for almost all baremetal Linux systems in
+- *Security Owner*: As security owner for almost all baremetal Linux systems in
   IBM Quantum, I leveraged our continuous deployment capabilities to rapidly
   improve our security posture, mitigate and resolve vulnerabilities, and
   manage authorization for internal users.
