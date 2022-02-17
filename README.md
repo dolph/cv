@@ -209,7 +209,9 @@ I've had many more side projects, but this is a handful I enjoy talking about.
   to a [Python](https://www.python.org/)-based CLI tool to eliminate that pain
   and promote positive social interactions.
 
-  Core technology stack: [Python 2](https://www.python.org/download/releases/2.0/)
+  Core technology stack: [Python
+  2](https://www.python.org/download/releases/2.0/),
+  [bash](https://www.gnu.org/software/bash/)
 
 - [pasteraw](http://github.com/dolph/pasteraw): Frustrated by slow pastebin
   services with poor CLI support, I built a fast, lightweight plaintext
