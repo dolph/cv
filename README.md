@@ -187,26 +187,40 @@ I've had many more side projects, but this is a handful I enjoy talking about.
 - [find-replace](https://github.com/dolph/find-replace): A fast find & replace
   shell command written in Go.
 
+  Core technology stack: [Go](https://go.dev/)
+
 - [dotfiles](https://github.com/dolph/dotfiles): I've been version controlling
   my desktop configuration files since 2013, across operating systems (OS X,
   Ubuntu Linux, and Fedora Linux), and across multiple desktop environments
   (Gnome, Xfce and i3). I now use Ansible to keep configuration across multiple
   workstations in sync.
 
+  Core technology stack: [Ansible](https://www.ansible.com/),
+  [bash](https://www.gnu.org/software/bash/)
+
 - [github.com/dolph/recipes](https://github.com/dolph/recipes): I love to cook,
-  and I version control my recipe collection with [Github-flavored
-  Markdown](https://guides.github.com/features/mastering-markdown/).
+  and I version control my recipe collection.
+
+  Core technology stack: [Github-flavored
+  Markdown](https://guides.github.com/features/mastering-markdown/)
 
 - [git-ready](https://github.com/dolph/git-ready): I found OpenStack's Gerrit
   workflow to be a little cumbersome and (ironically) anti-social, so I built
   to a [Python](https://www.python.org/)-based CLI tool to eliminate that pain
   and promote positive social interactions.
 
+  Core technology stack: [Python 2](https://www.python.org/download/releases/2.0/)
+
 - [pasteraw](http://github.com/dolph/pasteraw): Frustrated by slow pastebin
   services with poor CLI support, I built a fast, lightweight plaintext
   pastebin service that pushes content directly to a CDN-enabled object store.
   A few members of the OpenStack community adopted it, as well. Pastes are
   still available today via CDN, but the frontend has been shutdown.
+
+  Core technology stack: [Python
+  2](https://www.python.org/download/releases/2.0/),
+  [Flask](https://flask.palletsprojects.com/en/2.0.x/),
+  [Vagrant](https://www.vagrantup.com/)
 
 - [poker-hand-evaluator](https://github.com/dolph/poker-hand-evaluator): I
   found that evaluating and comparing poker hands to be an incredibly
@@ -216,3 +230,5 @@ I've had many more side projects, but this is a handful I enjoy talking about.
   7-card set. The result is a unique integer that represents the strength of
   the hand, allowing the hand to be compared to other 5- and 7-card hands to
   determine a winner.
+
+  Core technology stack: [Go](https://go.dev/)
