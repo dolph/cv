@@ -16,38 +16,39 @@ publishing documentation, and creating reliable, intuitive systems.
 
 ## *Senior DevOps Engineer*, IBM Quantum (2019 &mdash; present)
 
-As part of [IBM Quantum](https://www.ibm.com/quantum-computing/), I was
+As part of [IBM Quantum](https://www.ibm.com/quantum-computing/), I am
 responsible for the entire lifecycle of backend infrastructure running both
 production and research & development workloads.
 
-I led the deployment automation effort for all backend Linux systems, which was
-previously done manually from docs with handful of bash snippets to a
-variety of different hardware configurations, operating systems, and platforms.
-After I converted all available documentation to Ansible playbooks, which I
-tested in Vagrant & VirtualBox, I helped standardize hardware and operating
-system configuration by automating the provisioning process from baremetal. I
-later introduced Concourse CI to provide a continuous integration and
-continuous deployment platform, meeting business needs across multiple
+I have led the deployment automation effort for all backend Linux systems,
+which was previously done manually from docs with a handful of bash snippets to
+a variety of different hardware configurations, operating systems, and
+platforms. After I converted all available documentation to Ansible playbooks,
+which I tested in Vagrant & VirtualBox, I helped standardize hardware and
+operating system configuration by automating the provisioning process from
+baremetal. I later introduced Concourse CI to provide a continuous integration
+and continuous deployment platform, meeting business needs across multiple
 geographically-distributed private networks while delivering changes across all
 production devices multiple times per day without human intervention.
 
-I led the modernization of monitoring and alerting from backend infrastructure
-from local log files to centralized logging via LogDNA, system monitoring via
-Sysdig (which is built on Prometheus and `statsd`), and alerting via PagerDuty.
+I have led the modernization of monitoring and alerting from backend
+infrastructure from local log files to centralized logging via LogDNA, system
+monitoring via Sysdig (which is built on Prometheus and `statsd`), and alerting
+via PagerDuty.
 
-I also led the full operations lifecycle of geographically distributed Red Hat
-OpenShift/Kubernetes clusters from baremetal and virtualized provisioning to
-running clusters as part of [IBM Cloud
+I have also led the full operations lifecycle of geographically distributed Red
+Hat OpenShift/Kubernetes clusters from baremetal and virtualized provisioning
+to running clusters as part of [IBM Cloud
 Satellite](https://www.ibm.com/cloud/satellite), primarily for neartime quantum
 compute workloads.
 
-- *Squad Lead*: As squad lead, I ran daily standups, weekly backlog grooming,
+- *Squad Lead*: As squad lead, I run daily standups, weekly backlog grooming,
   biweekly retrospectives, and biweekly sprint planning for a team responsible
-  for backend infrastructure and Quantum control systems software. I also
+  for backend infrastructure and Quantum control systems software. I also have
   worked to help other teams adopt agile practices.
 
 - *Security Owner*: As security owner for almost all baremetal Linux systems in
-  IBM Quantum, I leveraged our continuous deployment capabilities to rapidly
+  IBM Quantum, I leverage our continuous deployment capability to rapidly
   improve our security posture, mitigate and resolve vulnerabilities, and
   manage authorization for internal users.
 
