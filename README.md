@@ -3,12 +3,11 @@
 ![Lint](https://github.com/dolph/cv/actions/workflows/markdown-lint.yml/badge.svg)
 ![Links](https://github.com/dolph/cv/actions/workflows/markdown-links.yml/badge.svg)
 
-I'm a software engineer who started with QBasic around 1995 and started
-working professionally with PHP in 2000. My career has centered around writing
-web applications, web services, and command-line tools. I find immense
-satisfaction in automating solutions, helping people save time and effort,
-writing tests, creating documentation, and building reliable, intuitive
-systems.
+I'm a software engineer who started with QBasic around 1995 and started working
+professionally with PHP in 2000. My career has centered around building web
+applications, web services, and command-line tools. I find immense satisfaction
+in automating solutions, helping people save time and effort, writing tests,
+publishing documentation, and creating reliable, intuitive systems.
 
 - Curriculum Vitæ: [github.com/dolph/cv](https://github.com/dolph/cv)
 - Email: [dolph.mathews@gmail.com](mailto:dolph.mathews@gmail.com)
