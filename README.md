@@ -141,6 +141,33 @@ implementation), thorough automated testing (particularly important when
 working with thousands of fellow technical contributors), and comprehensive
 continuous integration (from `git push` to shipping release artifacts).
 
+- *[Project Technical
+  Lead](https://docs.openstack.org/project-team-guide/ptl.html)*: As PTL, I
+  coordinated weekly team meetings via
+  [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat), conducted [thousands
+  of code
+  reviews](https://www.stackalytics.com/?release=all&project_type=all&user_id=dolph)
+  via [Gerrit](https://www.gerritcodereview.com/), triaged hundreds of issues
+  via [LaunchPad](https://launchpad.net/keystone), and fostered & mentored a
+  team of [core
+  reviewers](https://docs.openstack.org/doc-contrib-guide/docs-review.html)
+  from among dozens monthly active contributors in our open source community.
+
+- *[Technical Committee](https://governance.openstack.org/tc/)*: As a TC
+  member, I helped to govern the OpenStack community's structure, principles,
+  values, scope, goals, and licensing.
+
+- *Stable Maintenance Team*: As a [stable
+  maintenance](https://docs.openstack.org/project-team-guide/stable-branches.html)
+  team member, I was responsible for code reviewing commits, backporting
+  patches via cherry picks, and producing tagged releases of stable branches.
+
+- *Vulnerability Management Team*: As a [vulnerability management
+  ](https://security.openstack.org/vmt-process.html) team member, I was
+  responsible for triaging, reproducing, documenting (via
+  [CVE](https://cve.mitre.org/) processes), and patching vulnerabilities to
+  supported stable branches.
+
 Core technology stack: [Python](https://www.python.org),
 [bash](https://www.gnu.org/software/bash/), [JSON](http://www.json.org/),
 [YAML](http://yaml.org/), [Ansible](https://www.ansible.com/),
