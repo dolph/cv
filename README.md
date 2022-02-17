@@ -4,10 +4,11 @@
 ![Links](https://github.com/dolph/cv/actions/workflows/markdown-links.yml/badge.svg)
 
 I'm a software engineer who started with QBasic around 1995 and started working
-professionally with PHP in 2000. My career has centered around building web
-applications, web services, and command-line tools. I find immense satisfaction
-in automating solutions, helping people save time and effort, writing tests,
-publishing documentation, and creating reliable, intuitive systems.
+professionally with PHP in 2000. My career has centered around developing and
+operating web applications, web services, and command-line tools. I find
+immense satisfaction in automating solutions, helping people save time and
+effort, writing tests, publishing documentation, and creating reliable,
+intuitive systems.
 
 - Curriculum Vitæ: [github.com/dolph/cv](https://github.com/dolph/cv)
 - Email: [dolph.mathews@gmail.com](mailto:dolph.mathews@gmail.com)
@@ -71,7 +72,7 @@ Primary development tools: [vim](http://www.vim.org/),
 
 As part of [IBM Developer](https://developer.ibm.com/), I worked on a team
 responsible for creating and managing developer advocacy content such as
-tutorials, articles, and code patterns covering topics such as IBM Watson and
+tutorials, articles, and code patterns covering topics including IBM Watson and
 IBM Cloud. A code pattern is an open source example demonstrating how
 developers can leverage specific IBM services in their projects and are
 presented by developer advocates in labs, workshops, and presentations.
@@ -111,12 +112,12 @@ Primary development tools: [vim](http://www.vim.org/),
 ## *Principal Software Engineer*, Rackspace (2011-2017)
 
 At [Rackspace](https://www.rackspace.com/), I worked as an open source
-[Python](https://www.python.org/) developer, on a globally distributed team, in
+[Python](https://www.python.org/) developer on a globally distributed team in
 the [OpenStack](https://www.openstack.org/) community. After being hired as a
 **Software Engineer**, I was promoted to **Principal Engineer** in November
 2014.
 
-During that time, I become a core contributor of [OpenStack
+During that time, I became a core contributor of [OpenStack
 Keystone](http://github.com/openstack/keystone), the identity service for
 OpenStack-based clouds, and I was subsequently elected by my peers as the
 Project Technical Lead (PTL) and a member of the [OpenStack Technical
@@ -205,9 +206,9 @@ I've had many more side projects, but this is a handful I enjoy talking about.
   Markdown](https://guides.github.com/features/mastering-markdown/)
 
 - [git-ready](https://github.com/dolph/git-ready): I found OpenStack's Gerrit
-  workflow to be a little cumbersome and (ironically) anti-social, so I built
-  to a [Python](https://www.python.org/)-based CLI tool to eliminate that pain
-  and promote positive social interactions.
+  workflow to be a little cumbersome and (ironically) anti-social, so I built a
+  [Python](https://www.python.org/)-based CLI tool to eliminate that pain and
+  promote positive social interactions.
 
   Core technology stack: [Python
   2](https://www.python.org/download/releases/2.0/),
@@ -228,11 +229,10 @@ I've had many more side projects, but this is a handful I enjoy talking about.
 
 - [poker-hand-evaluator](https://github.com/dolph/poker-hand-evaluator): I
   found that evaluating and comparing poker hands to be an incredibly
-  interesting and multifaceted problem. As a fun exercise, I built a no-frills
-  command line tool in [Go](https://golang.org/), mostly using bitwise
-  operations, to efficiently identify the best 5-card poker hand out from a
-  7-card set. The result is a unique integer that represents the strength of
-  the hand, allowing the hand to be compared to other 5- and 7-card hands to
-  determine a winner.
+  interesting and multifaceted problem. As a fun exercise, I built a command
+  line tool in [Go](https://golang.org/), mostly using bitwise operations, to
+  efficiently identify the best 5-card poker hand of a 7-card set. The result
+  is a unique integer that represents the strength of the hand, allowing the
+  hand to be compared to other 5- and 7-card hands to determine a winner.
 
   Core technology stack: [Go](https://go.dev/)
