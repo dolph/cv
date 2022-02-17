@@ -109,7 +109,7 @@ Primary development tools: [vim](http://www.vim.org/),
 [git](https://git-scm.com/), [GitHub](https://www.github.com/),
 [TravisCI](https://travis-ci.org/), [Ubuntu Linux](https://www.ubuntu.com/)
 
-## *Principal Software Engineer*, Rackspace (2011-2017)
+## *Principal Software Engineer*, Rackspace (2011 &mdash; 2017)
 
 At [Rackspace](https://www.rackspace.com/), I worked as an open source
 [Python](https://www.python.org/) developer on a globally distributed team in
