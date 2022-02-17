@@ -3,7 +3,7 @@
 ![Lint](https://github.com/dolph/cv/actions/workflows/markdown-lint.yml/badge.svg)
 ![Links](https://github.com/dolph/cv/actions/workflows/markdown-links.yml/badge.svg)
 
-I'm a software developer that started with QBasic around 1995 and started
+I'm a software engineer who started with QBasic around 1995 and started
 working professionally with PHP in 2000. My career has centered around writing
 web applications, web services, and command-line tools. I find immense
 satisfaction in automating solutions, helping people save time and effort,
@@ -32,6 +32,16 @@ continuous deployment platform, meeting business needs across multiple
 geographically-distributed private networks while delivering changes across all
 production devices multiple times per day without human intervention.
 
+I led the modernization of monitoring and alerting from backend infrastructure
+from local log files to centralized logging via LogDNA, system monitoring via
+Sysdig (which is built on Prometheus and `statsd`), and alerting via PagerDuty.
+
+I also led the full operations lifecycle of geographically distributed Red Hat
+OpenShift/Kubernetes clusters from baremetal and virtualized provisioning to
+running clusters as part of [IBM Cloud
+Satellite](https://www.ibm.com/cloud/satellite), primarily for neartime quantum
+compute workloads.
+
 - *Squad Lead*: As squad lead, I ran daily standups, weekly backlog grooming,
   biweekly retrospectives, and biweekly sprint planning for a team responsible
   for backend infrastructure and Quantum control systems software. I also
@@ -49,7 +59,8 @@ Enterprise Linux 8
 [Dell iDRAC](https://www.dell.com/en-us/dt/solutions/openmanage/idrac.htm),
 [bash](https://www.gnu.org/software/bash/), [YAML](http://yaml.org/), [Sysdig
 (statsd, Prometheus)](https://sysdig.com/), [LogDNA](https://www.logdna.com/),
-[PagerDuty](https://www.logdna.com/), [Python 3](https://www.python.org/)
+[PagerDuty](https://www.logdna.com/), [Terraform](https://www.terraform.io/),
+[Python 3](https://www.python.org/)
 
 Primary development tools: [vim](http://www.vim.org/),
 [git](https://git-scm.com/), [GitHub](https://www.github.com/),
