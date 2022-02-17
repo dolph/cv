@@ -157,17 +157,16 @@ continuous integration (from `git push` to shipping release artifacts).
   member, I helped to govern the OpenStack community's structure, principles,
   values, scope, goals, and licensing.
 
-- *[Stable Maintenance
-  Team](https://docs.openstack.org/project-team-guide/stable-branches.html)*:
-  As a stable maintenance team member, I was responsible for code reviewing
-  commits, backporting patches via cherry picks, and producing tagged releases
-  of stable branches.
+- *[Stable
+  Maintenance](https://docs.openstack.org/project-team-guide/stable-branches.html)
+  team member*: As a stable maintenance team member, I was responsible for code
+  reviewing commits, backporting patches via cherry picks, and producing tagged
+  releases of stable branches.
 
-- *[Vulnerability Management
-  Team](https://security.openstack.org/vmt-process.html)*: As a vulnerability
-  management team member, I was responsible for triaging, reproducing,
-  documenting (via [CVE](https://cve.mitre.org/) processes), and patching
-  vulnerabilities to supported stable branches.
+- *[Vulnerability Management](https://security.openstack.org/vmt-process.html)
+  team member*: As a vulnerability management team member, I was responsible
+  for triaging, reproducing, documenting (via [CVE](https://cve.mitre.org/)
+  processes), and patching vulnerabilities to supported stable branches.
 
 Core technology stack: [Python](https://www.python.org),
 [bash](https://www.gnu.org/software/bash/), [JSON](http://www.json.org/),
