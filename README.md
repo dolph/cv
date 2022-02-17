@@ -219,7 +219,9 @@ I've had many more side projects, but this is a handful I enjoy talking about.
 
   Core technology stack: [Python
   2](https://www.python.org/download/releases/2.0/),
-  [Flask](https://flask.palletsprojects.com/en/2.0.x/),
+  [Flask](https://flask.palletsprojects.com/en/2.0.x/), [OpenStack Swift
+  (Object
+  Storage)](https://docs.rackspace.com/docs/user-guides/infrastructure/cloud-config/storage/cloud-files-product-concepts/object-storage)
   [Vagrant](https://www.vagrantup.com/)
 
 - [poker-hand-evaluator](https://github.com/dolph/poker-hand-evaluator): I
