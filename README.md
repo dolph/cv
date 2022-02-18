@@ -167,7 +167,7 @@ continuous integration (from `git push` to shipping release artifacts).
   member](https://security.openstack.org/vmt-process.html)*: As a vulnerability
   management team member, I was responsible for triaging, reproducing,
   documenting (via [CVE](https://cve.mitre.org/) processes), and patching
-  vulnerabilities to supported stable branches.
+  vulnerabilities on supported stable branches.
 
 Core technology stack: [Python](https://www.python.org),
 [bash](https://www.gnu.org/software/bash/), [JSON](http://www.json.org/),
