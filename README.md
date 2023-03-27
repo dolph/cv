@@ -15,7 +15,15 @@ intuitive systems.
 - GitHub: [github.com/dolph](https://github.com/dolph/)
 - LinkedIn: [Profile](https://www.linkedin.com/in/dolphmathews/)
 
-## *Senior DevOps Engineer*, IBM Quantum (2019 &mdash; present)
+## Education
+
+### University of Texas at Austin (2005 &mdash; 2009)
+
+Bachelor of Science, **Electrical & Computer Engineering**
+
+## Experience
+
+### *Senior DevOps Engineer*, IBM Quantum (2019 &mdash; present)
 
 As part of [IBM Quantum](https://www.ibm.com/quantum-computing/), I am
 responsible for the entire lifecycle of backend infrastructure running both
@@ -68,7 +76,7 @@ Primary development tools: [vim](http://www.vim.org/),
 [Fedora](https://getfedora.org/), [Vagrant](https://www.vagrantup.com/),
 [VirtualBox](https://www.virtualbox.org/)
 
-## *Senior Developer Advocate*, IBM Developer (2017 &mdash; 2019)
+### *Senior Developer Advocate*, IBM Developer (2017 &mdash; 2019)
 
 As part of [IBM Developer](https://developer.ibm.com/), I worked on a team
 responsible for creating and managing developer advocacy content such as
@@ -109,7 +117,7 @@ Primary development tools: [vim](http://www.vim.org/),
 [git](https://git-scm.com/), [GitHub](https://www.github.com/),
 [TravisCI](https://travis-ci.org/), [Ubuntu Linux](https://www.ubuntu.com/)
 
-## *Principal Software Engineer*, Rackspace (2011 &mdash; 2017)
+### *Principal Software Engineer*, Rackspace (2011 &mdash; 2017)
 
 At [Rackspace](https://www.rackspace.com/), I worked as an open source
 [Python](https://www.python.org/) developer on a globally distributed team in
@@ -182,7 +190,7 @@ Primary development tools: [vim](http://www.vim.org/),
 [TravisCI](https://travis-ci.org/), [Debian Linux](https://www.debian.org/),
 [Ubuntu Linux](https://www.ubuntu.com/), [OS X](https://www.apple.com/macos/)
 
-## *Software Engineer*, Akimeka (2009 &mdash; 2011)
+### *Software Engineer*, Akimeka (2009 &mdash; 2011)
 
 At [Akimeka](http://www.akimeka.com/), I worked on a project for the Department
 of Defense (DoD) Defense Healthcare Management System (DHMS) while holding a
@@ -204,10 +212,6 @@ IDEA](https://www.jetbrains.com/idea/), [Perforce](https://www.perforce.com/),
 [FogBugz](https://www.fogcreek.com/fogbugz/), [Code
 Collaborator](https://smartbear.com/product/collaborator/overview/),
 [Windows](https://www.microsoft.com/en-us/windows/)
-
-## University of Texas at Austin (2005 &mdash; 2009)
-
-Bachelor of Science, **Electrical & Computer Engineering**
 
 ## Side projects
 
