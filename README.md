@@ -10,7 +10,6 @@ immense satisfaction in automating solutions, helping people save time and
 effort, writing tests, publishing documentation, and creating reliable,
 intuitive systems.
 
-- Curriculum Vitæ: [github.com/dolph/cv](https://github.com/dolph/cv)
 - Email: [dolph.mathews@gmail.com](mailto:dolph.mathews@gmail.com)
 - GitHub: [github.com/dolph](https://github.com/dolph/)
 - LinkedIn: [Profile](https://www.linkedin.com/in/dolphmathews/)
