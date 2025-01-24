@@ -87,7 +87,7 @@ Primary development tools: [vim](http://www.vim.org/),
 [git](https://git-scm.com/), [GitHub](https://www.github.com/),
 [Fedora](https://getfedora.org/)
 
-### *Senior DevOps Engineer*, IBM Quantum (2019 &mdash; 2022)
+### *Senior DevOps Engineer*, IBM Quantum (2019 &mdash; 2021)
 
 As part of [IBM Quantum](https://www.ibm.com/quantum-computing/), I am
 responsible for the entire lifecycle of backend infrastructure running both
