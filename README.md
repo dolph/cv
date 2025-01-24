@@ -23,12 +23,13 @@ Bachelor of Science, **Electrical & Computer Engineering**
 
 ### *Lead Reliability Engineer*, IBM Quantum (2023 &mdash; present)
 
-As IBM Quantum has grown in maturity as a product offering, the reliability of
-the software services has become a key objective for the organization. I
-established a reliability practice within the organization, leading the use of
-Grafana as a broadly accessible tool for observability of system metrics and
-near-realtime debugging of internal components for development teams and
-internal users alike.
+As IBM Quantum has grown in maturity from a research project to a
+publicly-accessible product offering, I've advocated for the reliability of our
+software services to become a key objective for the organization. I established
+a reliability practice within the organization, leading the use of Grafana as a
+broadly accessible tool for observability of system metrics and near-realtime
+debugging of internal components for development teams and internal users
+alike.
 
 I measured and led the improvement of Quantum's job success rate year over year
 from 96.17% in 2023 to 99.30% in 2024, and demonstrated that we can maintain a
