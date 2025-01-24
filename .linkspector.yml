@@ -1,4 +1,7 @@
 # Docs: https://github.com/UmbrellaDocs/linkspector?tab=readme-ov-file#configuration
+dirs:
+- .
+useGitIgnore: true
 aliveStatusCodes:
 - 200
 - 999
