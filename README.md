@@ -80,7 +80,7 @@ CI](https://concourse-ci.org/), [Red Hat Enterprise Linux 8
 [bash](https://www.gnu.org/software/bash/), [YAML](http://yaml.org/), [Sysdig
 (statsd, Prometheus)](https://sysdig.com/), [LogDNA](https://www.logdna.com/),
 [PagerDuty](https://www.logdna.com/), [Terraform](https://www.terraform.io/),
-[Atlantis](https://www.runatlantis.io/), [Python 3](https://www.python.org/), 
+[Atlantis](https://www.runatlantis.io/), [Python 3](https://www.python.org/),
 [TravisCI](https://travis-ci.org/)
 
 Primary development tools: [vim](http://www.vim.org/),
