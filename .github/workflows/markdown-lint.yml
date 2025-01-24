@@ -14,9 +14,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Lint
-      uses: avto-dev/markdown-lint@v1.5.0
-      with:
-        args: README.md
+      uses: github/super-linter@v5
+      env:
+        VALIDATE_MARKDOWN: true
+        DEFAULT_WORKSPACE: ${{ github.workspace }}
