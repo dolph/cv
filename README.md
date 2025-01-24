@@ -23,6 +23,30 @@ Bachelor of Science, **Electrical & Computer Engineering**
 
 ### *Lead Reliability Engineer*, IBM Quantum (2023 &mdash; present)
 
+As IBM Quantum has grown in maturity as a product offering, the reliability of
+the software services has become a key objective for the organization. I
+established a reliability practice within the organization, leading the use of
+Grafana as a broadly accessible tool for observability of system metrics and
+near-realtime debugging of internal components for development teams and
+internal users alike.
+
+I measured and led the improvement of Quantum's job success rate year over year
+from 96.17% in 2023 to 99.30% in 2024, and demonstrated that we can maintain a
+job success rate as high as 99.85% over a 7-day period. I also discovered and
+measured an internal system efficiency metric, and drove it up from 50.4% when
+I first measured it in June 2023, to >90% in Q4 2024. These two achievements
+have unlocked tens of millions of dollars of quantum compute capacity that was
+otherwise being lost.
+
+I formalized 24/7 incident management policies and organized a volunteer team
+of subject matter experts to respond to software incidents within the
+organization. By driving improvements through alerting, I reduced our Mean Time
+to Detect customer impacting events from 368 minutes in 2023 to 58 minutes in
+2024. This team also achieved a Mean Time to Acknowledgement of all SEV-1
+incidents in 2024 of 9 minutes 10 seconds, which was previously estimated in
+terms of hours. As a result, this team directly helped improve our US service
+availability year over year from 97.0% in 2023 to 98.8% in 2024.
+
 Core technology stack: [Grafana](https://grafana.com/),
 [PostgreSQL](https://www.postgresql.org/), [Sysdig (statsd,
 Prometheus)](https://sysdig.com/), [LogDNA](https://www.logdna.com/),
