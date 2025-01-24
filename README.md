@@ -23,7 +23,15 @@ Bachelor of Science, **Electrical & Computer Engineering**
 
 ### *Lead Reliability Engineer*, IBM Quantum (2023 &mdash; present)
 
-<!-- TODO -->
+Core technology stack: [Grafana](https://grafana.com/),
+[PostgreSQL](https://www.postgresql.org/), [Sysdig (statsd,
+Prometheus)](https://sysdig.com/), [LogDNA](https://www.logdna.com/),
+[Jaeger Tracing (OpenTelemetry)](https://www.jaegertracing.io/),
+[PagerDuty](https://www.logdna.com/)
+
+Primary development tools: [vim](http://www.vim.org/),
+[git](https://git-scm.com/), [GitHub](https://www.github.com/),
+[Fedora](https://getfedora.org/)
 
 ### *Technical Lead, Infrastructure*, IBM Quantum (2021 &mdash; 2023)
 
@@ -39,6 +47,20 @@ My team supports hundreds of software engineers and researchers continuously
 developing, deploying, and operating dozens of applications in multiple
 environments. Our primary challenge is keeping up with rapidly evolving
 business goals by helping prototypes mature into reliable production services.
+
+Core technology stack: [Ansible](https://www.ansible.com/), [Concourse
+CI](https://concourse-ci.org/), [Red Hat Enterprise Linux 8
+(RHEL8)](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux),
+[Dell iDRAC](https://www.dell.com/en-us/dt/solutions/openmanage/idrac.htm),
+[bash](https://www.gnu.org/software/bash/), [YAML](http://yaml.org/), [Sysdig
+(statsd, Prometheus)](https://sysdig.com/), [LogDNA](https://www.logdna.com/),
+[PagerDuty](https://www.logdna.com/), [Terraform](https://www.terraform.io/),
+[Atlantis](https://www.runatlantis.io/), [Python 3](https://www.python.org/), 
+[TravisCI](https://travis-ci.org/)
+
+Primary development tools: [vim](http://www.vim.org/),
+[git](https://git-scm.com/), [GitHub](https://www.github.com/),
+[Fedora](https://getfedora.org/)
 
 ### *Senior DevOps Engineer*, IBM Quantum (2019 &mdash; 2022)
 
