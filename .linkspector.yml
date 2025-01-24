@@ -1,3 +1,4 @@
-{
-    "aliveStatusCodes": [200, 999]
-}
+# Docs: https://github.com/UmbrellaDocs/linkspector?tab=readme-ov-file#configuration
+aliveStatusCodes:
+- 200
+- 999
