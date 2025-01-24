@@ -21,7 +21,26 @@ Bachelor of Science, **Electrical & Computer Engineering**
 
 ## Experience
 
-### *Senior DevOps Engineer*, IBM Quantum (2019 &mdash; present)
+### *Lead Reliability Engineer*, IBM Quantum (2023 &mdash; present)
+
+<!-- TODO -->
+
+### *Technical Lead, Infrastructure*, IBM Quantum (2021 &mdash; 2023)
+
+As Technical Lead for a team of 10+ engineers, I am responsible for
+prioritizing the classical infrastructure work required to deploy and maintain
+Quantum hardware at 9 physical sites, the surrounding compute infrastructure,
+and the cloud services fronting them. We maintain dozens of
+Kubernetes/OpenShift clusters, and hundreds of baremetal devices. The scope and
+scale of the team's responsibilities would not be possible to manage without a
+heavy reliance on automation, primarily using Ansible and Terraform.
+
+My team supports hundreds of software engineers and researchers continuously
+developing, deploying, and operating dozens of applications in multiple
+environments. Our primary challenge is keeping up with rapidly evolving
+business goals by helping prototypes mature into reliable production services.
+
+### *Senior DevOps Engineer*, IBM Quantum (2019 &mdash; 2022)
 
 As part of [IBM Quantum](https://www.ibm.com/quantum-computing/), I am
 responsible for the entire lifecycle of backend infrastructure running both
